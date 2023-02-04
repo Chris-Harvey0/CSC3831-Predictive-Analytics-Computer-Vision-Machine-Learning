@@ -13,9 +13,9 @@ This task involved using the AddNIST dataset and made use of transfer learning.
 For this I researched the available pre-trained models that were available through Keras.
 I selected the VGG16 model because of its relatively high accuracies compared to the other models and reasonable train times.
 For transfer learning the chosen model needs to be incorporated into a model which handles the input of the images and the output decision layer.
-This model was very slow to train but managed to produce reasonable accuracies of 
+This model was very slow to train but managed to produce reasonable accuracies of 86%.
 ## Task 3
 This task also required use of the AddNIST dataset.
 But for this task I needed to create my own model rather than using transfer learning like task two.
 This model required quite a bit of optimisation to achieve the best results but the train times were much better than the model from task two.
-And in the end the results obtained were better from this model as well.
+This model achieved an accuracy of 91% which is better than the results obtained by the model in task two.
