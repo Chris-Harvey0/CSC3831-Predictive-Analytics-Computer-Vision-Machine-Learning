@@ -1,6 +1,6 @@
 # CSC3831-Predictive-Analytics-Computer-Vision-Machine-Learning
 ## Overview
-This project involved completing three separate tasks involving the AddNIST dataset.
+This project involved completing three separate tasks involving the AddNIST and NIST datasets.
 The AddNIST dataset is based on the widely used NIST dataset which includes thousands of images of hand-written numbers.
 One AddNIST image includes three images from the NIST dataset with each image being in one of the red, green or blue colour channels.
 These images are layered on top of each other and the end goal of tasks two and three is to calculate the total of the numbers in each image added up minus one.
@@ -19,3 +19,6 @@ This task also required use of the AddNIST dataset.
 But for this task I needed to create my own model rather than using transfer learning like task two.
 This model required quite a bit of optimisation to achieve the best results but the train times were much better than the model from task two.
 This model achieved an accuracy of 91% which is better than the results obtained by the model in task two.
+## Reflection
+This was my first machine learning project, it allowed me to develop skills from using Google Colab and Keras.
+It also allowed me to gain knowledge of different machine learning techniques, including transfer learning and image normalisation techniques.
